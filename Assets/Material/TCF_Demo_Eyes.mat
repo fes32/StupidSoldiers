@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TCF_Demo_Eyes
+  m_Shader: {fileID: 4800000, guid: 89d14b6e7418de84eb624cbf18d4de37, type: 3}
+  m_ShaderKeywords: TCP2_RAMPTEXT
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _DissolveMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DissolveRamp:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Ramp:
+        m_Texture: {fileID: 2800000, guid: 4a056241e2722dc46a7262a8e7073fd9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SketchTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Cutoff: 0.5
+    - _DissolveGradientWidth: 0.2
+    - _DissolveValue: 0.5
+    - _EnableConstSizeOutline: 0
+    - _EnableTexturedOutline: 0
+    - _EnableZSmooth: 0
+    - _HSV_H: 0
+    - _HSV_S: 0
+    - _HSV_V: 0
+    - _Offset1: 0
+    - _Offset2: 0
+    - _Outline: 1
+    - _RampSmooth: 0.1
+    - _RampThreshold: 0.5
+    - _RimMax: 1
+    - _RimMin: 1
+    - _RimPower: 3
+    - _SSDistortion: 0.2
+    - _SSPower: 3
+    - _SSScale: 1
+    - _Shininess: 0.20665379
+    - _SketchHalftoneMax: 1
+    - _SketchHalftoneMin: 0.2
+    - _SketchSpeed: 6
+    - _Smoothness: 0.2
+    - _SnowThickness: 0.02
+    - _SnowThr: 0.5
+    - _SpecSmooth: 0.05
+    - _TexLod: 5
+    - _ZSmooth: -0.5
+    - __dummy__: 0
+    - __outline_gui_dummy__: 0
+    m_Colors:
+    - _Color: {r: 0.24846919, g: 0.4433962, b: 0.26566863, a: 1}
+    - _HColor: {r: 0.6226415, g: 0.61324316, b: 0.61324316, a: 1}
+    - _LColor: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
+    - _OutlineColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
+    - _RimColor: {r: 1, g: 1, b: 1, a: 0.34117648}
+    - _SColor: {r: 0.13223569, g: 0.16037738, b: 0.16037738, a: 1}
+    - _SketchColor: {r: 0, g: 0, b: 0, a: 1}
+    - _SnowAngle: {r: 0, g: 1, b: 0, a: 0}
+    - _SnowColor: {r: 0.94, g: 0.96, b: 1, a: 1}
+    - _SnowRimColor: {r: 1, g: 1, b: 1, a: 0.7}
+    - _SnowShadowColor: {r: 0.2, g: 0.2, b: 0.3, a: 1}
+    - _SpecColor: {r: 0.9264706, g: 0.9264706, b: 0.9264706, a: 1}
+  m_BuildTextureStacks: []
